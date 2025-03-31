@@ -422,6 +422,14 @@ body {
     text-decoration: none;
 }
 
+#footer-center{
+    border-left: 1px solid #626262;
+    border-right: 1px solid #626262;
+}
+
+#footer-center h3{
+    font-weight: 900;
+}
 #footer-links-container li a:hover {
     color: #C09578;
 }
